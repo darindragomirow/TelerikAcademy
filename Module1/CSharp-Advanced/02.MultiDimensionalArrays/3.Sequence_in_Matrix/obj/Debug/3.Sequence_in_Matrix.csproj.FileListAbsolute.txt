@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\bin\Debug\3.Sequence_in_Matrix.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\bin\Debug\3.Sequence_in_Matrix.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\bin\Debug\3.Sequence_in_Matrix.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\obj\Debug\3.Sequence_in_Matrix.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\obj\Debug\3.Sequence_in_Matrix.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\3.Sequence_in_Matrix\obj\Debug\3.Sequence_in_Matrix.csprojResolveAssemblyReference.cache

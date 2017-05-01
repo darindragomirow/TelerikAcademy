@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\bin\Debug\HELP.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\bin\Debug\HELP.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\bin\Debug\HELP.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\obj\Debug\HELP.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\obj\Debug\HELP.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\HELP\obj\Debug\HELP.pdb

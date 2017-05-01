@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\bin\Debug\5.ParseTags.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\bin\Debug\5.ParseTags.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\bin\Debug\5.ParseTags.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\obj\Debug\5.ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\obj\Debug\5.ParseTags.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\5.ParseTags\obj\Debug\5.ParseTags.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassChefInCSharp", "Homework\ClassChefInCSharp.csproj", "{DC4E5AF4-C1DF-4D56-A2F4-5B929FD74072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "IfStatements\IfStatements.csproj", "{0EE053B9-120B-4AA0-86DC-C73EDD63BAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{18EF90D3-9CA2-4FBD-835A-1814EC2DE9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4E5AF4-C1DF-4D56-A2F4-5B929FD74072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4E5AF4-C1DF-4D56-A2F4-5B929FD74072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4E5AF4-C1DF-4D56-A2F4-5B929FD74072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4E5AF4-C1DF-4D56-A2F4-5B929FD74072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE053B9-120B-4AA0-86DC-C73EDD63BAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE053B9-120B-4AA0-86DC-C73EDD63BAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE053B9-120B-4AA0-86DC-C73EDD63BAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE053B9-120B-4AA0-86DC-C73EDD63BAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EF90D3-9CA2-4FBD-835A-1814EC2DE9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EF90D3-9CA2-4FBD-835A-1814EC2DE9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EF90D3-9CA2-4FBD-835A-1814EC2DE9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EF90D3-9CA2-4FBD-835A-1814EC2DE9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

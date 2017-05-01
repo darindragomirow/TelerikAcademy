@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class_123", "class_123\class_123.csproj", "{DB4DF0FC-9104-428C-90C2-724D9D0ED7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make_4yek", "Make_4yek\Make_4yek.csproj", "{0D3E2B25-1D28-4FE2-9D4F-10851A121EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mines", "Mines\Mines.csproj", "{2CF25E7F-7841-448B-91FF-7462240D0F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4DF0FC-9104-428C-90C2-724D9D0ED7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4DF0FC-9104-428C-90C2-724D9D0ED7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4DF0FC-9104-428C-90C2-724D9D0ED7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4DF0FC-9104-428C-90C2-724D9D0ED7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3E2B25-1D28-4FE2-9D4F-10851A121EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3E2B25-1D28-4FE2-9D4F-10851A121EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3E2B25-1D28-4FE2-9D4F-10851A121EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3E2B25-1D28-4FE2-9D4F-10851A121EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF25E7F-7841-448B-91FF-7462240D0F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF25E7F-7841-448B-91FF-7462240D0F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF25E7F-7841-448B-91FF-7462240D0F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF25E7F-7841-448B-91FF-7462240D0F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

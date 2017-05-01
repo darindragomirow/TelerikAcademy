@@ -1,0 +1,2 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\3.CodeDocumentation-and-Comments\StringExtensions\StringExtensions\bin\Debug\StringExtensions.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\3.CodeDocumentation-and-Comments\StringExtensions\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache

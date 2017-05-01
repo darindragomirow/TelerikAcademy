@@ -1,0 +1,6 @@
+https://github.com/DanielaPopova/TelerikAcademy_Homeworks/blob/master/UnitTesting/Workshop%20-%20ArmyOfCreatures/ArmyOfCreatures.Tests/Extended/ExtendedCreaturesFactoryTests.cs
+
+https://github.com/TelerikAcademy/Unit-Testing/blob/master/Topics/04.%20Workshop%20(Trainers)/ArmyOfCreatures-Evening-livedemo/ArmyOfCreatures-All/Solution/ArmyOfCreatures.Tests/CreatureIdentifierTests.cs
+
+Uslowie:
+https://github.com/TelerikAcademy/Unit-Testing/blob/master/Topics/04.%20Workshop%20(Trainers)/Live-Demo-Morning-Lecture/%D0%A2estsRequirements.md

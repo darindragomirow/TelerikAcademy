@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\bin\Debug\1.Primitive_Data_Types.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\bin\Debug\1.Primitive_Data_Types.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\bin\Debug\1.Primitive_Data_Types.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\obj\Debug\1.Primitive_Data_Types.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\obj\Debug\1.Primitive_Data_Types.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\1.Primitive_Data_Types\obj\Debug\1.Primitive_Data_Types.csprojResolveAssemblyReference.cache

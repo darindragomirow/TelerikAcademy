@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\bin\Debug\2.BinaryToDecimal.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\bin\Debug\2.BinaryToDecimal.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\bin\Debug\2.BinaryToDecimal.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\obj\Debug\2.BinaryToDecimal.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\obj\Debug\2.BinaryToDecimal.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\2.BinaryToDecimal\obj\Debug\2.BinaryToDecimal.csprojResolveAssemblyReference.cache

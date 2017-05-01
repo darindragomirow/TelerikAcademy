@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\02.DefiningClassesPart2\02.DefiningClassesPart2\bin\Debug\02.DefiningClassesPart2.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\02.DefiningClassesPart2\02.DefiningClassesPart2\bin\Debug\02.DefiningClassesPart2.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\02.DefiningClassesPart2\02.DefiningClassesPart2\bin\Debug\02.DefiningClassesPart2.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\02.DefiningClassesPart2\02.DefiningClassesPart2\obj\Debug\02.DefiningClassesPart2.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\02.DefiningClassesPart2\02.DefiningClassesPart2\obj\Debug\02.DefiningClassesPart2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\bin\Debug\Mines.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\bin\Debug\Mines.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\bin\Debug\Mines.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\obj\Debug\Mines.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Mines\obj\Debug\Mines.pdb

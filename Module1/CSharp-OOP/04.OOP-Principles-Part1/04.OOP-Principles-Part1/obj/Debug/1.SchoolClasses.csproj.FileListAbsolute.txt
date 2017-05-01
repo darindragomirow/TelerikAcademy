@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\04.OOP-Principles-Part1\bin\Debug\04.OOP-Principles-Part1.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\04.OOP-Principles-Part1\obj\Debug\04.OOP-Principles-Part1.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\04.OOP-Principles-Part1\obj\Debug\04.OOP-Principles-Part1.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\04.OOP-Principles-Part1\bin\Debug\04.OOP-Principles-Part1.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\04.OOP-Principles-Part1\bin\Debug\04.OOP-Principles-Part1.pdb

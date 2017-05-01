@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\bin\Debug\15.Age.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\bin\Debug\15.Age.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\bin\Debug\15.Age.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\obj\Debug\15.Age.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\obj\Debug\15.Age.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\1.Primitive_Data_Types\15.Age\obj\Debug\15.Age.pdb

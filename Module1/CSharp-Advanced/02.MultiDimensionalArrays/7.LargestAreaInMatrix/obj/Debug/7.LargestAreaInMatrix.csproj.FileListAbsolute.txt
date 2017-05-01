@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\bin\Debug\7.LargestAreaInMatrix.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\bin\Debug\7.LargestAreaInMatrix.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\bin\Debug\7.LargestAreaInMatrix.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\obj\Debug\7.LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\obj\Debug\7.LargestAreaInMatrix.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\7.LargestAreaInMatrix\obj\Debug\7.LargestAreaInMatrix.pdb

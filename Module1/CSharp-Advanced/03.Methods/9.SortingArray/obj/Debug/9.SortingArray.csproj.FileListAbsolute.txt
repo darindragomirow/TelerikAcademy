@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\bin\Debug\9.SortingArray.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\bin\Debug\9.SortingArray.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\bin\Debug\9.SortingArray.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\obj\Debug\9.SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\obj\Debug\9.SortingArray.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\9.SortingArray\obj\Debug\9.SortingArray.pdb

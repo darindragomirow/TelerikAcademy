@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.pdb

@@ -1,0 +1,8 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\UnitTesting\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\UnitTesting\TaskManager\TaskManager\obj\Debug\TaskManager.exe

@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\obj\Debug\1.FunctionalNumeralSystem.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\bin\Debug\CSharpAdvanced-Exam.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\bin\Debug\CSharpAdvanced-Exam.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\bin\Debug\CSharpAdvanced-Exam.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\obj\Debug\CSharpAdvanced-Exam.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\CSharpAdvanced-Exam\obj\Debug\CSharpAdvanced-Exam.pdb

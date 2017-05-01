@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

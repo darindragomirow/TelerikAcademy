@@ -1,0 +1,2 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\5.Control Flow, Conditional Statements-and-Loops Homework\Homework\Loops\bin\Debug\Loops.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\5.Control Flow, Conditional Statements-and-Loops Homework\Homework\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache

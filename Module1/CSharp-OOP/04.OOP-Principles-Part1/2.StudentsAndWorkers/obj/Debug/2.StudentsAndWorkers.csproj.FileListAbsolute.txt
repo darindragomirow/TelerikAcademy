@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.pdb

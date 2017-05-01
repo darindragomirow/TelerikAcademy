@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\bin\Debug\Extension-Methods-Delegates-LINQ.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\bin\Debug\Extension-Methods-Delegates-LINQ.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\bin\Debug\Extension-Methods-Delegates-LINQ.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\obj\Debug\Extension-Methods-Delegates-LINQ.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\obj\Debug\Extension-Methods-Delegates-LINQ.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\Extension-Methods-Delegates-LINQ\Extension-Methods-Delegates-LINQ\obj\Debug\Extension-Methods-Delegates-LINQ.csprojResolveAssemblyReference.cache

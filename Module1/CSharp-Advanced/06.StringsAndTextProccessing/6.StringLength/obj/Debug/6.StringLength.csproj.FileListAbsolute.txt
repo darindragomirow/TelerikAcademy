@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\6.StringLength\bin\Debug\6.StringLength.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\6.StringLength\bin\Debug\6.StringLength.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\6.StringLength\bin\Debug\6.StringLength.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\6.StringLength\obj\Debug\6.StringLength.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\6.StringLength\obj\Debug\6.StringLength.pdb

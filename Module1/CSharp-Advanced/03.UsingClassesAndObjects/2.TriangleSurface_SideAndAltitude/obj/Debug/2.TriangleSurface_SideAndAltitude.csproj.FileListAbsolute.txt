@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\bin\Debug\2.TriangleSurface_SideAndAltitude.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\bin\Debug\2.TriangleSurface_SideAndAltitude.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\bin\Debug\2.TriangleSurface_SideAndAltitude.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\obj\Debug\2.TriangleSurface_SideAndAltitude.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\obj\Debug\2.TriangleSurface_SideAndAltitude.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\2.TriangleSurface_SideAndAltitude\obj\Debug\2.TriangleSurface_SideAndAltitude.pdb

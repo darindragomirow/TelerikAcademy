@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\7.HighQualityClasses\HQClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\7.HighQualityClasses\HQClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\7.HighQualityClasses\HQClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\7.HighQualityClasses\HQClasses\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\7.HighQualityClasses\HQClasses\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb

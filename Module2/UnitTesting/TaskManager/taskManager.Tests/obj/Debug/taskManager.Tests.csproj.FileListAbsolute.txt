@@ -1,0 +1,9 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\taskManager.Tests.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\taskManager.Tests.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\TaskManager.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\TaskManager.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\obj\Debug\taskManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\obj\Debug\taskManager.Tests.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\UnitTesting\TaskManager\taskManager.Tests\obj\Debug\taskManager.Tests.pdb

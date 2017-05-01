@@ -1,0 +1,3 @@
+
+[assembly: InternalsVisibleTo("IntergalacticTravel.Tests")]
+[assembly: InternalsVisibleTo("DynamicProxyGenAssembly2

@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\obj\Debug\Loops.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache

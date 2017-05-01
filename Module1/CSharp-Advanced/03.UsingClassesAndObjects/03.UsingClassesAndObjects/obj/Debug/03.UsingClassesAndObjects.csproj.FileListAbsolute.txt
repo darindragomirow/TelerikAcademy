@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\bin\Debug\03.UsingClassesAndObjects.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\bin\Debug\03.UsingClassesAndObjects.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\bin\Debug\03.UsingClassesAndObjects.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\obj\Debug\03.UsingClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\obj\Debug\03.UsingClassesAndObjects.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\03.UsingClassesAndObjects\obj\Debug\03.UsingClassesAndObjects.pdb

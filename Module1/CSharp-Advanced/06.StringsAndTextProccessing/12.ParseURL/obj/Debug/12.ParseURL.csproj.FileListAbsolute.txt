@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\obj\Debug\12.ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

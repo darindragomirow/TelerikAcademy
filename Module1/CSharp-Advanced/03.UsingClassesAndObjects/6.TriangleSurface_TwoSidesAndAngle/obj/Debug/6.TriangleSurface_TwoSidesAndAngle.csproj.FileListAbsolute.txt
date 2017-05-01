@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\bin\Debug\6.TriangleSurface_TwoSidesAndAngle.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\bin\Debug\6.TriangleSurface_TwoSidesAndAngle.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\bin\Debug\6.TriangleSurface_TwoSidesAndAngle.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\obj\Debug\6.TriangleSurface_TwoSidesAndAngle.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\obj\Debug\6.TriangleSurface_TwoSidesAndAngle.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\6.TriangleSurface_TwoSidesAndAngle\obj\Debug\6.TriangleSurface_TwoSidesAndAngle.pdb

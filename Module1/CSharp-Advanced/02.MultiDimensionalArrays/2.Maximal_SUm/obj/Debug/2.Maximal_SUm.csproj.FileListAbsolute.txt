@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\bin\Debug\2.Maximal_SUm.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\bin\Debug\2.Maximal_SUm.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\bin\Debug\2.Maximal_SUm.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\obj\Debug\2.Maximal_SUm.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\obj\Debug\2.Maximal_SUm.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\02.MultiDimensionalArrays\2.Maximal_SUm\obj\Debug\2.Maximal_SUm.pdb

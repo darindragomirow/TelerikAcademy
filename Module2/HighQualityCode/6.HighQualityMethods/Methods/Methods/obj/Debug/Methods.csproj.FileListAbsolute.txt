@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\6.HighQualityMethods\Methods\Methods\obj\Debug\Methods.pdb

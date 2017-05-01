@@ -1,0 +1,2 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\4.Variables, Data, Expressions and Constants\Homework\PrinStatisticsInCSharp\bin\Debug\PrinStatisticsInCSharp.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\4.Variables, Data, Expressions and Constants\Homework\PrinStatisticsInCSharp\obj\Debug\PrinStatisticsInCSharp.csprojResolveAssemblyReference.cache

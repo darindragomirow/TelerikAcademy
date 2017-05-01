@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Exam_Preparation\Exam_Preparation\bin\Debug\Exam_Preparation.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Exam_Preparation\Exam_Preparation\bin\Debug\Exam_Preparation.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Exam_Preparation\Exam_Preparation\bin\Debug\Exam_Preparation.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Exam_Preparation\Exam_Preparation\obj\Debug\Exam_Preparation.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Exam_Preparation\Exam_Preparation\obj\Debug\Exam_Preparation.pdb

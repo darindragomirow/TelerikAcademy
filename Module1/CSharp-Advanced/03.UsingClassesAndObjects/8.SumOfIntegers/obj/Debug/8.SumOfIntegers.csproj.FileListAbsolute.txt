@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\bin\Debug\8.SumOfIntegers.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\bin\Debug\8.SumOfIntegers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\bin\Debug\8.SumOfIntegers.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\obj\Debug\8.SumOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\obj\Debug\8.SumOfIntegers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\8.SumOfIntegers\obj\Debug\8.SumOfIntegers.pdb

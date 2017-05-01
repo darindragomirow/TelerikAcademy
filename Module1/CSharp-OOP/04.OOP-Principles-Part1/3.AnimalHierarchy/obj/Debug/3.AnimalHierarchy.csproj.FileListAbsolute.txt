@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\04.OOP-Principles-Part1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.pdb

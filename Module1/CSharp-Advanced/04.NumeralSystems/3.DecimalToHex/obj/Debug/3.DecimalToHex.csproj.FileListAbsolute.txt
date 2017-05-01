@@ -1,0 +1,9 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\bin\Debug\3.DecimalToHex.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\bin\Debug\3.DecimalToHex.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\bin\Debug\3.DecimalToHex.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\obj\Debug\3.DecimalToHex.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\obj\Debug\3.DecimalToHex.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\3.DecimalToHex\obj\Debug\3.DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-Advanced\04.NumeralSystems\3.DecimalToHex\bin\Debug\3.DecimalToHex.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-Advanced\04.NumeralSystems\3.DecimalToHex\obj\Debug\3.DecimalToHex.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-Advanced\04.NumeralSystems\3.DecimalToHex\obj\Debug\3.DecimalToHex.pdb

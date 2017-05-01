@@ -1,0 +1,2 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\class_123\bin\Debug\class_123.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\class_123\obj\Debug\class_123.csprojResolveAssemblyReference.cache

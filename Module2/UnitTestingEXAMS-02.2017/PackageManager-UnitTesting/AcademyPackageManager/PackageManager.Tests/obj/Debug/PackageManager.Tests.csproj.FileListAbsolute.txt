@@ -1,0 +1,13 @@
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.pdb
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.pdb
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.xml
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.xml
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.xml
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.csprojResolveAssemblyReference.cache
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.dll
+D:\Unit Testing Exam\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.pdb

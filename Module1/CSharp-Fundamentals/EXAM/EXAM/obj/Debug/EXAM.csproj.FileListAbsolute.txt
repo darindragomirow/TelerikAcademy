@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\bin\Debug\EXAM.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\bin\Debug\EXAM.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\bin\Debug\EXAM.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\obj\Debug\EXAM.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\obj\Debug\EXAM.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\EXAM\obj\Debug\EXAM.pdb

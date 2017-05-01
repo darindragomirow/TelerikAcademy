@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

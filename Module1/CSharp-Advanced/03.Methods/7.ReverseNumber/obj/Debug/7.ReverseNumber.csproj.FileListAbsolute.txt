@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\7.ReverseNumber\bin\Debug\7.ReverseNumber.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\7.ReverseNumber\bin\Debug\7.ReverseNumber.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\7.ReverseNumber\bin\Debug\7.ReverseNumber.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\7.ReverseNumber\obj\Debug\7.ReverseNumber.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\7.ReverseNumber\obj\Debug\7.ReverseNumber.pdb

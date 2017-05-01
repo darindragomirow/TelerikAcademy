@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\3.EnglishDigit\bin\Debug\3.EnglishDigit.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\3.EnglishDigit\bin\Debug\3.EnglishDigit.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\3.EnglishDigit\bin\Debug\3.EnglishDigit.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\3.EnglishDigit\obj\Debug\3.EnglishDigit.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\3.EnglishDigit\obj\Debug\3.EnglishDigit.pdb

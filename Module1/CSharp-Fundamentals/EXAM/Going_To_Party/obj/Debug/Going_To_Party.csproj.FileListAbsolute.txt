@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\bin\Debug\Going_To_Party.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\bin\Debug\Going_To_Party.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\bin\Debug\Going_To_Party.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\obj\Debug\Going_To_Party.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\obj\Debug\Going_To_Party.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\EXAM\Going_To_Party\obj\Debug\Going_To_Party.pdb

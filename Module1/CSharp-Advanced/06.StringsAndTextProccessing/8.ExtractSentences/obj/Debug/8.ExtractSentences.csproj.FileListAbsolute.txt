@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\8.ExtractSentences\bin\Debug\8.ExtractSentences.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\8.ExtractSentences\bin\Debug\8.ExtractSentences.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\8.ExtractSentences\bin\Debug\8.ExtractSentences.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\8.ExtractSentences\obj\Debug\8.ExtractSentences.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\8.ExtractSentences\obj\Debug\8.ExtractSentences.pdb

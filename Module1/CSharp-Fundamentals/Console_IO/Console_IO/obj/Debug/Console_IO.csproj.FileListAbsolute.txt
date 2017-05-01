@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Console_IO\Console_IO\bin\Debug\Console_IO.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Console_IO\Console_IO\bin\Debug\Console_IO.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Console_IO\Console_IO\bin\Debug\Console_IO.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Console_IO\Console_IO\obj\Debug\Console_IO.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Console_IO\Console_IO\obj\Debug\Console_IO.pdb

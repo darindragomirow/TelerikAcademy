@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\bin\Debug\4.PeshoCodeNew.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\bin\Debug\4.PeshoCodeNew.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\bin\Debug\4.PeshoCodeNew.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\obj\Debug\4.PeshoCodeNew.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\obj\Debug\4.PeshoCodeNew.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharpAdvanced-Exam\4.PeshoCodeNew\obj\Debug\4.PeshoCodeNew.pdb

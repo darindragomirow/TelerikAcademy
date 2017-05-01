@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\bin\Debug\Operators_and_Expressions.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\bin\Debug\Operators_and_Expressions.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\bin\Debug\Operators_and_Expressions.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\obj\Debug\Operators_and_Expressions.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\obj\Debug\Operators_and_Expressions.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\Operators_and_Expressions\Operators_and_Expressions\obj\Debug\Operators_and_Expressions.csprojResolveAssemblyReference.cache

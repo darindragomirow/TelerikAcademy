@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\bin\Debug\03.Methods.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\bin\Debug\03.Methods.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\bin\Debug\03.Methods.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\obj\Debug\03.Methods.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\obj\Debug\03.Methods.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\03.Methods\obj\Debug\03.Methods.pdb

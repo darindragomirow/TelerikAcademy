@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\bin\Debug\1.DefineClass.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\bin\Debug\1.DefineClass.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\bin\Debug\1.DefineClass.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\obj\Debug\1.DefineClass.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\obj\Debug\1.DefineClass.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\1.DefineClass\obj\Debug\1.DefineClass.pdb

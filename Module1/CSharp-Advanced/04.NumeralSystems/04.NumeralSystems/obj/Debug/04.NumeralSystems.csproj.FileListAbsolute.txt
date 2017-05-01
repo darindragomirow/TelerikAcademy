@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\04.NumeralSystems\bin\Debug\04.NumeralSystems.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\04.NumeralSystems\bin\Debug\04.NumeralSystems.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\04.NumeralSystems\bin\Debug\04.NumeralSystems.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\04.NumeralSystems\obj\Debug\04.NumeralSystems.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\04.NumeralSystems\04.NumeralSystems\obj\Debug\04.NumeralSystems.pdb

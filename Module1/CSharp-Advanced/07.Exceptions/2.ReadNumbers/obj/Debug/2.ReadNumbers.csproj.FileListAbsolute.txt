@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\bin\Debug\2.ReadNumbers.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\obj\Debug\2.ReadNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\obj\Debug\2.ReadNumbers.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\2.ReadNumbers\obj\Debug\2.ReadNumbers.pdb

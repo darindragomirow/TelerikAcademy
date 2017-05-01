@@ -1,0 +1,3 @@
+PackageRepository - Region from Line 137 to line 139 + Method AddPackage.
+The method GetAll should return empty collection when there are no packages, but it always returns a collection
+with at least one package in it.

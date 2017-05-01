@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\5.TriangleSurface_ThreeSides\bin\Debug\5.TriangleSurface_ThreeSides.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\5.TriangleSurface_ThreeSides\bin\Debug\5.TriangleSurface_ThreeSides.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\5.TriangleSurface_ThreeSides\bin\Debug\5.TriangleSurface_ThreeSides.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\5.TriangleSurface_ThreeSides\obj\Debug\5.TriangleSurface_ThreeSides.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.UsingClassesAndObjects\5.TriangleSurface_ThreeSides\obj\Debug\5.TriangleSurface_ThreeSides.pdb

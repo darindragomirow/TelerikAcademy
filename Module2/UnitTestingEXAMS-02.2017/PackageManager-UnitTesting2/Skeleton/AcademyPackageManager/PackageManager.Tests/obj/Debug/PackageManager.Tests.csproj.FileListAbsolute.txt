@@ -1,0 +1,13 @@
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.Tests.pdb
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\PackageManager.pdb
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\Moq.xml
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.dll
+C:\Users\Darin-PC\Desktop\ExamFileForEvaluation\Skeleton\AcademyPackageManager\PackageManager.Tests\obj\Debug\PackageManager.Tests.pdb

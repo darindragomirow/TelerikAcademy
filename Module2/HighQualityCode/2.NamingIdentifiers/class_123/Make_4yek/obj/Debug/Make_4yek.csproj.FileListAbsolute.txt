@@ -1,0 +1,2 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Make_4yek\bin\Debug\Make_4yek.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2015\Telerik2017\HighQualityCode\2.NamingIdentifiers\class_123\Make_4yek\obj\Debug\Make_4yek.csprojResolveAssemblyReference.cache

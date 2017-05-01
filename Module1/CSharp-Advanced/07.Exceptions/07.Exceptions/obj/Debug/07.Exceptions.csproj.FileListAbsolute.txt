@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\bin\Debug\07.Exceptions.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\bin\Debug\07.Exceptions.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\bin\Debug\07.Exceptions.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\obj\Debug\07.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\obj\Debug\07.Exceptions.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\07.Exceptions\07.Exceptions\obj\Debug\07.Exceptions.pdb

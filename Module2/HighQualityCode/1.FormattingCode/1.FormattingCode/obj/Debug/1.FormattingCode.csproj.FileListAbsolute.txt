@@ -1,0 +1,6 @@
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\bin\Debug\1.FormattingCode.exe.config
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\bin\Debug\1.FormattingCode.exe
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\bin\Debug\1.FormattingCode.pdb
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\obj\Debug\1.FormattingCode.csprojResolveAssemblyReference.cache
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\obj\Debug\1.FormattingCode.exe
+c:\users\darin-pc\documents\visual studio 2015\Projects\1.FormattingCode\1.FormattingCode\obj\Debug\1.FormattingCode.pdb

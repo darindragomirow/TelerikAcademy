@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\4.Appearance\bin\Debug\4.Appearance.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\4.Appearance\bin\Debug\4.Appearance.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\4.Appearance\bin\Debug\4.Appearance.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\4.Appearance\obj\Debug\4.Appearance.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\4.Appearance\obj\Debug\4.Appearance.pdb

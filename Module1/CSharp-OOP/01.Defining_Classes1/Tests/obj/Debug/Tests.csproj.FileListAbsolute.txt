@@ -1,0 +1,7 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\bin\Debug\Tests.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\bin\Debug\Tests.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\obj\Debug\Tests.dll
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\CSharp-OOP\01.Defining_Classes1\Tests\obj\Debug\Tests.pdb

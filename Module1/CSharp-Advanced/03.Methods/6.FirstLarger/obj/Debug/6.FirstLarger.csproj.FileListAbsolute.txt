@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\bin\Debug\6.FirstLarger.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\obj\Debug\6.FirstLarger.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\bin\Debug\6.FirstLarger.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\bin\Debug\6.FirstLarger.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\obj\Debug\6.FirstLarger.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\6.FirstLarger\obj\Debug\6.FirstLarger.pdb

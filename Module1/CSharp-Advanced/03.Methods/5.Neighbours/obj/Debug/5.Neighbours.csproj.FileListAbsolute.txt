@@ -1,0 +1,6 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\bin\Debug\5.Neighbours.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\bin\Debug\5.Neighbours.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\bin\Debug\5.Neighbours.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\obj\Debug\5.Neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\obj\Debug\5.Neighbours.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\03.Methods\5.Neighbours\obj\Debug\5.Neighbours.pdb

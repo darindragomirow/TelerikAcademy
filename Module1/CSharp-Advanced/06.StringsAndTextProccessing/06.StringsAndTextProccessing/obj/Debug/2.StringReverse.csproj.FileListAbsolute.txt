@@ -1,0 +1,5 @@
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\06.StringsAndTextProccessing\bin\Debug\06.StringsAndTextProccessing.exe.config
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\06.StringsAndTextProccessing\bin\Debug\06.StringsAndTextProccessing.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\06.StringsAndTextProccessing\bin\Debug\06.StringsAndTextProccessing.pdb
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\06.StringsAndTextProccessing\obj\Debug\06.StringsAndTextProccessing.exe
+C:\Users\Darin-PC\Documents\Visual Studio 2013\Telerik2016\06.StringsAndTextProccessing\06.StringsAndTextProccessing\obj\Debug\06.StringsAndTextProccessing.pdb
